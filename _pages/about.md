@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a Research Assistant Professor at the School of Engineering, University of Kansas (KU), where I collaborate closely with [Professor Huazhen Fang](https://fang.ku.edu/) (PI). My research lies at the intersection of reinforcement learning, cyber-physical systems, and control theory. I earned my Ph.D. degree from Zhejiang University, Hangzhou, China, in 2020. During 2017-2019, I had the privilege of being advised by [Professor Tamer Başar](http://tamerbasar.csl.illinois.edu/) at the University of Illinois at Urbana Champaign (UIUC), where I was a joint Ph.D. student. Before joining KU, I served as a Postdoctoral Research Associate at Purdue University, West Lafayette, IN, USA, from 2021-2023, under the mentorship of [Professor Shreyas Sundaram](https://engineering.purdue.edu/~sundara2/). During my tenure at Purdue, I collaborated extensively with [Dr. Raid Ayoub](https://sites.google.com/view/raidayoub) and [Dr. Pietro Mercati](https://sites.google.com/site/pietromercati/home) from Intel Lab. I acquired substantial industry expertise through my roles as a research intern at Alibaba Group, focusing on recommendation systems and reinforcement learning in E-commerce, and as an FPGA algorithm engineer at Zhejiang Supcon Technology Co., Ltd.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My academic journey has been enriched by diverse experiences spanning academia and industry, shaping my interdisciplinary approach to research. I am dedicated to leveraging insights from both realms to address pressing challenges in cyber-physical systems and control theory, with the ultimate goal of driving innovation and societal impact.
+
 
 A data-driven personal website
 ======
