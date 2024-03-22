@@ -16,7 +16,7 @@ My academic journey has been enriched by diverse experiences spanning academia a
 - Incentive Stackelberg game
 - Sample complexity analysis of model-based and model-free reinforcement learning
 
-Professional Services
+Selected Professional Services
 ------
 ***Session Chair***: 2023 American Control Conference (ACC)
 
