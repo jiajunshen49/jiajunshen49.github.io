@@ -20,7 +20,7 @@ Selected Professional Services
 ------
 ***Session Chair***: 2023 American Control Conference (ACC)
 
-***Reviewer***: IEEE Transactions on Automatic Control, Automatica, SIAM Journal on Control and Optimization, IEEE Transactions on Control System Technology, International Journal of Control, International Journal of System Science, Asian Journal of Control, IET Control Theory \& Applications, IEEE Control Systems Letters, IEEE Transactions on Knowledge and Data Engineering; American Control Conference, Control Decision Conference,  International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+***Reviewer***: IEEE Transactions on Automatic Control, Automatica, SIAM Journal on Control and Optimization, IEEE Transactions on Control System Technology, International Journal of Control, International Journal of Systems Science, Asian Journal of Control, IET Control Theory \& Applications, IEEE Control Systems Letters, IEEE Transactions on Knowledge and Data Engineering; American Control Conference, Control Decision Conference,  International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
 
 
 
