@@ -1,21 +1,12 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Workshop"
+type: "Graduate level course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Zhejiang University, Department of Control Science and Engineering"
+date: 2016-10-30
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course is entitled “Introduction to the Security of Industrial Cyber-physical Systems”. This course introduces the preliminaries of cyber-physical systems from the perspective of mathematical formulation, especially with the help of control theory and game theory. This course also discusses the application of cyber-physical systems in industry and manufacturing.
 
