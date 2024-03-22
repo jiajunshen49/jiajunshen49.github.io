@@ -12,9 +12,9 @@ Research Interest
 ------
 My academic journey has been enriched by diverse experiences spanning academia and industry, shaping my interdisciplinary approach to research. I am dedicated to leveraging insights from both realms to address pressing challenges in industrial cyber-physical systems, control theory, and reinforcement learning. My current research is specifically focused in 
 
-- Optimization and control problems in Battery energy storage system
+- Optimization and control problems in battery energy storage system (BESS)
 - Incentive Stackelberg game
-- Sample complexity analysis of Model-based and model-free reinforcement learning
+- Sample complexity analysis of model-based and model-free reinforcement learning
 
 Professional Services
 ------
