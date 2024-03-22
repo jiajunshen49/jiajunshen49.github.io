@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Graduate-level course"
+type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Zhejiang University, Department of Control Science and Engineering"
 date: 2016-10
