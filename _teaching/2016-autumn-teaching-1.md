@@ -8,5 +8,5 @@ date: 2016-10-30
 location: "Hangzhou, China"
 ---
 
-This course introduces the preliminaries of cyber-physical systems from the perspective of mathematical formulation, especially with the help of control theory and game theory.
+This course provides an introduction to the fundamentals of cyber-physical systems, emphasizing mathematical formulation with a focus on control theory and game theory principles.
 
