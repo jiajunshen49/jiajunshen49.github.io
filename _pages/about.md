@@ -18,7 +18,7 @@ My academic journey has been enriched by diverse experiences spanning academia a
 
 Selected Professional Services
 ------
-***Session Chair***: 2023 American Control Conference (ACC)
+***Session Chair***: 2023 American Control Conference (ACC), 2024 IEEE International Conference on Industrial Cyber-Physical Systems (ICPS)
 
 ***Reviewer***: IEEE Transactions on Automatic Control, Automatica, SIAM Journal on Control and Optimization, IEEE Transactions on Control System Technology, International Journal of Control, International Journal of Systems Science, Asian Journal of Control, IET Control Theory & Applications, IEEE Control Systems Letters, IEEE Transactions on Knowledge and Data Engineering; American Control Conference, Control Decision Conference,  International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
 
